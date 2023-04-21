@@ -1,0 +1,1826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KMLBUILDINGSINSEAWARD.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff536786</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff783396</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff536786</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff536786</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff536786</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff783396</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>KML BUILDINGS IN SEA WARD</name>
+		<description>KML BUILDINGS IN SEA WARD </description>
+		<Placemark>
+			<name>BLO1 </name>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>01</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66294746064281,37.89217898460496,25 -80.66287249243797,37.89224759038355,25 -80.66289593732732,37.89227094328754,25 -80.66298279588531,37.89226849394422,25 -80.66298444759049,37.89217898303872,25 -80.66294746064281,37.89217898460496,25 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>BLO2</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>02</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66290768761705,37.89228078492913,26 -80.66290913092263,37.89231170996207,26 -80.66298507384742,37.89231039001634,26 -80.66298503703651,37.89228015228151,26 -80.66290768761705,37.89228078492913,26 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>BLO3</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>03</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66289151207231,37.89232124000436,27 -80.66289257319653,37.89236373551708,27 -80.66299372358245,37.89235970148226,27 -80.66299189507583,37.89231817596454,27 -80.66289151207231,37.89232124000436,27 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>BLO4</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>04</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66290106335374,37.89237286176926,28 -80.66290059141448,37.89241522648691,28 -80.66298099299419,37.89241251558403,28 -80.66299074073517,37.89237285815632,28 -80.66290106335374,37.89237286176926,28 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>BLO5</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>05</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66288485926898,37.89249370824373,29 -80.6629043626583,37.89255694646381,29 -80.66299932676243,37.89255890283908,29 -80.66299712467634,37.89247213969971,29 -80.66294315905797,37.89247214183364,29 -80.66288485926898,37.89249370824373,29 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>BLO6</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>06</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66290058886726,37.89256283992433,35 -80.66289831830368,37.89264212147611,35 -80.66300101977816,37.89261875029634,35 -80.6630045408907,37.89256283587864,35 -80.66290058886726,37.89256283992433,35 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>BLO7</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>07</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66292309269247,37.89264751489473,39.99999999999999 -80.66292895993409,37.8927253047191,39.99999999999999 -80.66301442577222,37.89272295500788,39.99999999999999 -80.66301293951724,37.89262823741937,39.99999999999999 -80.66292309269247,37.89264751489473,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>BLO8</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>08</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66284493589326,37.89265512309381,33 -80.66284755921875,37.89273001790254,33 -80.66292245971037,37.89272295848408,33 -80.6629168605993,37.89264535361445,33 -80.66284493589326,37.89265512309381,33 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>BLO9</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>09</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66278104004103,37.89265239794021,36 -80.66277768565421,37.89272809766166,36 -80.66284070880248,37.89272367731975,36 -80.66283680455244,37.89265133850809,36 -80.66278104004103,37.89265239794021,36 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>BLO10</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>10</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66264626902226,37.89263766345244,27 -80.66264392853924,37.89273475118135,27 -80.66277040495575,37.89273141880904,27 -80.66277514613411,37.89267261216542,27 -80.66272902594507,37.89263451846404,27 -80.66264626902226,37.89263766345244,27 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>BLO11</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>11</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.6626476302707,37.89259784792083,25 -80.66264745062375,37.8926263987224,25 -80.66271790763393,37.89262722396832,25 -80.66271405350646,37.89258904248294,25 -80.6626476302707,37.89259784792083,25 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>BLO12</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>12</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66264220127714,37.89255675423413,30 -80.66264810561476,37.89259243190691,30 -80.66271008291645,37.89258556599518,30 -80.66270449450705,37.89255740924157,30 -80.66264220127714,37.89255675423413,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>BLO13</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>13</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.6626262998705,37.89248367352302,34 -80.66264450029975,37.89254760985611,34 -80.66270951831117,37.89255151224807,34 -80.66272250577572,37.89254178794175,34 -80.66272059073366,37.89248724052001,34 -80.6626262998705,37.89248367352302,34 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>BLO14</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>14</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66262768950628,37.89244612292781,34 -80.66263131752721,37.89248189469603,34 -80.66270869727605,37.89247599530181,34 -80.66270054645338,37.89244611993293,34 -80.66262768950628,37.89244612292781,34 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>BLO15</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>15</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66263008291763,37.89238696683827,28 -80.66262854956132,37.89243663208243,28 -80.6627229191317,37.89243607402751,28 -80.66271433021615,37.8923722139513,28 -80.66263008291763,37.89238696683827,28 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>BLO16</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>16</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66276778384778,37.89234688890716,29 -80.66277267027716,37.89240931536546,29 -80.66283578078321,37.89241277322264,29 -80.66283684518623,37.89232552675111,29 -80.66280654176342,37.89232236295216,29 -80.66276778384778,37.89234688890716,29 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>BLO17</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>17</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66281722131764,37.89248205397679,39.99999999999999 -80.66282012188675,37.89255364405857,39.99999999999999 -80.66288692590096,37.89254705186043,39.99999999999999 -80.66287476869917,37.89248452843471,39.99999999999999 -80.66281722131764,37.89248205397679,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>BLO18</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>18</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66281510012932,37.89255744127331,35 -80.66281741013734,37.89260258545466,35 -80.66284634556101,37.89260258546151,35 -80.66284572004223,37.89255668801199,35 -80.66281510012932,37.89255744127331,35 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CLO1</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>01</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66268093035239,37.89297458910435,33 -80.66268341075437,37.89306236393681,33 -80.66281438844884,37.89306156161653,33 -80.66281395492295,37.89301015540823,33 -80.66277625365554,37.8930093992806,33 -80.66277017116825,37.89297241454697,33 -80.66268093035239,37.89297458910435,33 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CLO2</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>02</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66267191109905,37.89285766720855,29 -80.66267359270817,37.89296736219138,29 -80.6627862368817,37.8929673621771,29 -80.66278504834798,37.89292184500256,29 -80.6627702449838,37.8928551537747,29 -80.66267191109905,37.89285766720855,29 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CLO3</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>03</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66277855265658,37.89285390004945,35 -80.66279447777016,37.89293213029404,35 -80.66285856065213,37.89292594372472,35 -80.66283986376818,37.89285015075529,35 -80.66277855265658,37.89285390004945,35 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CLO4</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>04</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66284782935629,37.89284641925462,36 -80.66286402973182,37.89291776650322,36 -80.66292217192454,37.89290899872376,36 -80.66291538058529,37.89282681274344,36 -80.6628697965462,37.89282741808682,36 -80.66284782935629,37.89284641925462,36 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CLO5</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>COMMERCIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>05</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66292127025569,37.89283105972789,39.99999999999999 -80.66292872749598,37.89293805937015,39.99999999999999 -80.66300889353791,37.8929262133224,39.99999999999999 -80.66301510724126,37.8928253962689,39.99999999999999 -80.66292127025569,37.89283105972789,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CLO6</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>06</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66290462543597,37.89294521964054,34 -80.66290992617668,37.89299896974479,34 -80.66302222610118,37.89299399094465,34 -80.66301524109458,37.89293093857593,34 -80.66290462543597,37.89294521964054,34 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CLO7</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>07</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66291692613625,37.89300772784583,30 -80.66287604596234,37.89301780867479,30 -80.66287499683354,37.89305500458931,30 -80.66291724626677,37.89306544958774,30 -80.66301865474388,37.89306152309946,30 -80.66301700659824,37.8930014659891,30 -80.66291692613625,37.89300772784583,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CLO8</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>08</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66292218163878,37.89306624982002,35 -80.6629168426574,37.89311793557422,35 -80.66295450940768,37.89312248003117,35 -80.66302818708571,37.89309996927836,35 -80.66302414944349,37.89306624966449,35 -80.66292218163878,37.89306624982002,35 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CLO9</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>09</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66290053475231,37.89316027499103,32 -80.66290196010029,37.89323095903472,32 -80.66303672216775,37.89321662559395,32 -80.66303272342449,37.89315286390242,32 -80.66290053475231,37.89316027499103,32 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CLO10</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>10</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.6629051029448,37.89323998324241,36 -80.6629035448554,37.89330049167867,36 -80.66304141764428,37.89328991977341,36 -80.66303751681825,37.89322477953385,36 -80.6629051029448,37.89323998324241,36 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CLO11</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>11</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66295869298804,37.8933027772096,28 -80.66296366957084,37.89341010021819,28 -80.66304906316765,37.89340658963575,28 -80.66304484683431,37.89330068238596,28 -80.66295869298804,37.8933027772096,28 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CLO12</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>12</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66291019454529,37.89334692033127,26 -80.66291547076624,37.89341267027577,26 -80.66295880795461,37.89341061249422,26 -80.66295655084272,37.89335001245656,26 -80.66291019454529,37.89334692033127,26 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CLO13</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>13</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66271960197633,37.89338775507482,29 -80.6627221798577,37.89344436999114,29 -80.66290739001784,37.89341483563859,29 -80.66290462003086,37.89336222694845,29 -80.66271960197633,37.89338775507482,29 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CLO14</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>14</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.6627216957726,37.89332249626757,38 -80.66272163613026,37.8933775541361,38 -80.6628617088178,37.89336268770242,38 -80.66286200407981,37.8933137525842,38 -80.6627216957726,37.89332249626757,38 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CLO15</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>15</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66271181447659,37.89326263546876,32 -80.66271471413991,37.89331344181648,32 -80.66285932541396,37.89330461883254,32 -80.66285710625395,37.89325763279954,32 -80.66271181447659,37.89326263546876,32 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CLO16</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>16</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66270801410388,37.8931392812313,39.99999999999999 -80.66270902038809,37.89322421682195,39.99999999999999 -80.66283516644226,37.89320760444778,39.99999999999999 -80.66282444007039,37.89314144350667,39.99999999999999 -80.66270801410388,37.8931392812313,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>DLO1</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>01</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66273534631438,37.89363359959808,25 -80.66279863256008,37.89360888217055,25 -80.66275111926799,37.89350076947685,25 -80.66267973321202,37.89353146416416,25 -80.66273534631438,37.89363359959808,25 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>DLO2</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>02</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66275960306949,37.89350188425059,39.99999999999999 -80.66280701594826,37.89360952299798,39.99999999999999 -80.66286780297429,37.89359680320658,39.99999999999999 -80.6628661355529,37.89348971265834,39.99999999999999 -80.66275960306949,37.89350188425059,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>DLO3</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>03</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66287318303851,37.89348916411245,26 -80.66287391059636,37.89359869827987,26 -80.66295101658538,37.89358552690324,26 -80.66294204592629,37.8934847903046,26 -80.66287318303851,37.89348916411245,26 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>DLO4</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>04</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66294753248029,37.89347396803674,39 -80.66295753756374,37.8935824229486,39 -80.66306799219996,37.89355862493247,39 -80.66306667522943,37.89347182245812,39 -80.66294753248029,37.89347396803674,39 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>DLO5</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>05</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66299718158116,37.89358118476168,27 -80.66300716740228,37.89362505817171,27 -80.6630730646758,37.89362244802145,27 -80.66307057731086,37.89356587038115,27 -80.66299718158116,37.89358118476168,27 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>DLO6</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>06</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66307678620149,37.89366868706733,36 -80.66307201213618,37.89363096181964,36 -80.66300562445383,37.89363227965686,36 -80.66300777461066,37.89366730960148,36 -80.66307678620149,37.89366868706733,36 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>DLO7</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>07</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66295841711364,37.89367352645985,28 -80.66295914036117,37.89372646509936,28 -80.66308097379635,37.89372499008036,28 -80.66307481370697,37.89367144895417,28 -80.66295841711364,37.89367352645985,28 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>DLO8</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>08</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.6629770240401,37.89373462303829,35 -80.66297684505298,37.89377270233855,35 -80.66308209842578,37.89377348105018,35 -80.66308204441651,37.89373239044198,35 -80.6629770240401,37.89373462303829,35 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>DLO9</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>09</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66297050048921,37.89378408139501,29 -80.66297365199743,37.89385903733866,29 -80.66309127299638,37.89385576026933,29 -80.66307840707661,37.89378306309538,29 -80.66297050048921,37.89378408139501,29 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>DLO10</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>10</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66290434274103,37.89381615316289,34 -80.66290326040709,37.89386672295527,34 -80.66296654560726,37.89386342236742,34 -80.6629626652047,37.89381615315389,34 -80.66290434274103,37.89381615316289,34 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>DLO11</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>11</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66281154685129,37.89375896792969,29 -80.66281695719026,37.89387513364544,29 -80.66289481778834,37.89386764871134,29 -80.66289756111507,37.89381505974288,29 -80.66288101006155,37.89375846168952,29 -80.66281154685129,37.89375896792969,29 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>DLO12</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>12</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66275736715545,37.89382603764518,34 -80.66275407752639,37.89387095289479,34 -80.66280689260473,37.89387194782342,34 -80.66280701925916,37.8938250793863,34 -80.66275736715545,37.89382603764518,34 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>DLO13</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>13</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.662682237762,37.89377719745179,30 -80.6626825161031,37.8938023078332,30 -80.66274748571671,37.89386896537807,30 -80.66274886122449,37.89378643589086,30 -80.662682237762,37.89377719745179,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>DLO14</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>14</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66260713815575,37.89386782248729,34 -80.66265671876108,37.89391586476226,34 -80.66271104452183,37.89388843019679,34 -80.66266936593557,37.89383149818084,34 -80.66260713815575,37.89386782248729,34 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>DLO15</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>15</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66256702822776,37.89386899982101,31 -80.66251967384667,37.89389995789948,31 -80.66256073092478,37.89396811809493,31 -80.662648301605,37.89392323064186,31 -80.66260256918517,37.89386994333792,31 -80.66256702822776,37.89386899982101,31 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>DLO16</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>16</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66244679362946,37.8937941356662,33 -80.66251398643878,37.89389495029249,33 -80.66257111912564,37.89385492359742,33 -80.66244679362946,37.8937941356662,33 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>DLO17</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>17</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66246712831902,37.89373645726877,32 -80.66244482643066,37.89378178647015,32 -80.66255165110913,37.89383713692632,32 -80.66258165252958,37.89378797997369,32 -80.66246712831902,37.89373645726877,32 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>DLO18</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>18</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66246647723679,37.89372663919703,29 -80.66259917517701,37.89378965676682,29 -80.66263191218458,37.89375287150082,29 -80.66249851140869,37.8936862136854,29 -80.66246647723679,37.89372663919703,29 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>DLO19</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>19</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66250798665799,37.89367985488199,33 -80.66263080969362,37.89373907599673,33 -80.66265196387089,37.89370780146591,33 -80.66254082221177,37.8936458117403,33 -80.66250798665799,37.89367985488199,33 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>DLO20</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>20</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66254765021272,37.89363959702126,31 -80.66265813021229,37.89370139991814,31 -80.66270109720917,37.89365368998963,31 -80.66258769314814,37.89359691117097,31 -80.66254765021272,37.89363959702126,31 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>DLO21</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>21</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66270453958855,37.89371810900521,35 -80.66276529937134,37.89375303219946,35 -80.6628188195486,37.89370884549952,35 -80.66282034681717,37.8936641102199,35 -80.66278505306305,37.89365833729306,35 -80.66270453958855,37.89371810900521,35 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>DLO22</name>
+			<visibility>0</visibility>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>22</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66282881725111,37.89363753904249,39.99999999999999 -80.66282698432433,37.89370680163891,39.99999999999999 -80.6629002364491,37.89371604139912,39.99999999999999 -80.66289257021198,37.89363660732731,39.99999999999999 -80.66282881725111,37.89363753904249,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>ELO1</name>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>01</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66281666318288,37.8945171693186,29 -80.66282788565529,37.8944794447428,29 -80.66273808535125,37.8944489567437,29 -80.66272883097599,37.89437821893159,29 -80.6626490012215,37.89437911446328,29 -80.6626678049163,37.89452029389581,29 -80.66281666318288,37.8945171693186,29 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>ELO2</name>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>02</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66264308506783,37.89432939963194,26 -80.66265334932966,37.89437139797742,26 -80.66272967644247,37.89436974108412,26 -80.66272581945979,37.8943301867662,26 -80.66264308506783,37.89432939963194,26 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>ELO3</name>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>03</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.6626472054966,37.89428805645325,32 -80.66264924809535,37.89432235339477,32 -80.66272427803507,37.89431691709957,32 -80.66272591489231,37.89428880239782,32 -80.6626472054966,37.89428805645325,32 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>ELO4</name>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>04</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66264825900143,37.89422861852039,34 -80.66265028671756,37.89428359773787,34 -80.66278625408108,37.89428137863151,34 -80.66278715715136,37.89422381836113,34 -80.66264825900143,37.89422861852039,34 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>ELO5</name>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>05</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66262119713517,37.89414313859599,37 -80.66264199600916,37.89422476039456,37 -80.66274072423116,37.89422203735144,37 -80.66274013053579,37.89418041229256,37 -80.66267177434551,37.89417954713986,37 -80.66266075757318,37.89414563024892,37 -80.66262119713517,37.89414313859599,37 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>ELO6</name>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>06</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66259664556372,37.89404909846733,35 -80.66261382312048,37.89413665131791,35 -80.66268125406815,37.8941406178243,35 -80.6626928815853,37.89410649252287,35 -80.66262582414397,37.89402961479767,35 -80.66259664556372,37.89404909846733,35 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>ELO7</name>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>07</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66263135400639,37.89402263891578,28 -80.66269828819649,37.89410362729565,28 -80.66275965557239,37.89406537591343,28 -80.66269828835749,37.89399110693774,28 -80.66263135400639,37.89402263891578,28 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>ELO8</name>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>08</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66270637144424,37.89398610405522,34 -80.66276802610581,37.89406537594116,34 -80.66282276678389,37.89403312507083,34 -80.66276565197913,37.89395751116923,34 -80.66270637144424,37.89398610405522,34 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>ELO9</name>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>09</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66277235285541,37.89395474933485,32 -80.66284020333472,37.89404492428206,32 -80.6629371391531,37.89404795711673,32 -80.66293696853097,37.89394028147375,32 -80.66281257756192,37.89393848961869,32 -80.66277235285541,37.89395474933485,32 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>ELO10</name>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>10</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66294512078672,37.89394028660819,32 -80.66294194888688,37.89402053198345,32 -80.6630187220116,37.89404368878646,32 -80.66306163621915,37.89397465343648,32 -80.66304600854998,37.89394415802589,32 -80.66294512078672,37.89394028660819,32 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>ELO11</name>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>11</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.6629412245141,37.8940257519471,26 -80.66293621754713,37.89409708057339,26 -80.66299367359217,37.89410829710354,26 -80.66302439870441,37.89405868341721,26 -80.6629412245141,37.8940257519471,26 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>ELO12</name>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>12</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66290908790367,37.89409040386582,38 -80.66288056782513,37.8941554778237,38 -80.66296486204908,37.89417442785187,38 -80.66299229553358,37.89412076509984,38 -80.66290908790367,37.89409040386582,38 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>ELO13</name>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>13</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66284835175993,37.89415313074042,29 -80.66283098548843,37.89419490610153,29 -80.66294693392207,37.89422693161958,29 -80.66297006353753,37.89418401995594,29 -80.66284835175993,37.89415313074042,29 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>ELO14</name>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>14</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66284404042612,37.89420909514843,36 -80.66282128073055,37.89430996339864,36 -80.6629024146133,37.89433799581204,36 -80.66293850402293,37.8942324450813,36 -80.66284404042612,37.89420909514843,36 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>ELO15</name>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>15</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66281082841515,37.89431031541347,35 -80.66278116444163,37.89436324993374,35 -80.66286865033491,37.89439630414836,35 -80.66290199611538,37.89434263709407,35 -80.66281082841515,37.89431031541347,35 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>ELO16</name>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>16</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66278937546211,37.89437485068789,26 -80.66277238806356,37.89442527956775,26 -80.66284210861241,37.89445047613791,26 -80.66286690928808,37.89439780438411,26 -80.66278937546211,37.89437485068789,26 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>FLO1</name>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>01</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66264503076592,37.89458100656749,25 -80.66261053021464,37.89464304796931,25 -80.66266483573564,37.89465403970412,25 -80.66270556229621,37.89458703595421,25 -80.66264503076592,37.89458100656749,25 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>FLO2</name>
+			<snippet></snippet>
+			<description><![CDATA[<STORIES></STORIES>
+<CLASS></CLASS>
+<TYPE>RESIDENTIAL</TYPE>
+<NOTE>SEA WARD</NOTE>
+<SERIAL>02</SERIAL>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<gx:balloonVisibility>1</gx:balloonVisibility>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66271744445081,37.89457234745385,39.99999999999999 -80.66266951410962,37.89465465616257,39.99999999999999 -80.66276444671036,37.89467153676298,39.99999999999999 -80.66281433740677,37.89458373973863,39.99999999999999 -80.66271744445081,37.89457234745385,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
